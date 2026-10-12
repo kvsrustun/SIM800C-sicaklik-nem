@@ -1,13 +1,12 @@
 # 📲 SIM800C ile SMS Tabanlı Sıcaklık ve Nem Takip Sistemi
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Donanım-Deneyap%20Kart%201A-007acc?style=for-the-badge&logo=espressif&logoColor=white" alt="Donanım" />
-  <img src="https://img.shields.io/badge/GSM%20Modülü-SIM800C%20SMS-e11d48?style=for-the-badge" alt="GSM" />
-  <img src="https://img.shields.io/badge/Sensör-Sıcaklık%20%26%20Nem-059669?style=for-the-badge" alt="Sensör" />
-  <img src="https://img.shields.io/badge/Besleme-3.7V%202000mAh%20LiPo-f59e0b?style=for-the-badge" alt="Batarya" />
-  <img src="https://img.shields.io/badge/Lisans-MIT-brightgreen?style=for-the-badge" alt="Lisans" />
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/Donan%C4%B1m-Deneyap%20Kart%201A-24292e?style=flat-square&logo=espressif" alt="Donanım" /></a>
+  <a href="#sms-mantigi"><img src="https://img.shields.io/badge/GSM%20Mod%C3%BCl%C3%BC-SIM800C%20SMS-24292e?style=flat-square" alt="GSM" /></a>
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/Sens%C3%B6r-S%C4%B1cakl%C4%B1k%20%26%20Nem-24292e?style=flat-square" alt="Sensör" /></a>
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/Besleme-3.7V%202000mAh%20LiPo-24292e?style=flat-square" alt="Batarya" /></a>
+  <a href="#lisans"><img src="https://img.shields.io/badge/Lisans-MIT-24292e?style=flat-square" alt="Lisans" /></a>
 </p>
-
 > **Wi-Fi ve internet bağlantısının bulunmadığı ortamlarda;** Deneyap Kart 1A, I2C Sıcaklık/Nem Sensörü ve **SIM800C GSM Modülü** kullanılarak ortamın sıcaklık ve nem değerlerini doğrudan cep telefonuna **otonom SMS olarak gönderen** kablosuz IoT erken uyarı ve telemetri projesi.
 
 ---
